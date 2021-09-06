@@ -4,4 +4,5 @@ Week 1 intro to Java starter code
 
 
 #HOW IT WORKS
+Enter a number
 
